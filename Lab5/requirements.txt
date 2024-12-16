@@ -1,0 +1,10 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+sqlalchemy==2.0.20
+pydantic==1.10.7
+passlib[bcrypt]==1.7.4
+python-jose==3.3.0
+python-multipart==0.0.5
+psycopg2-binary==2.9.6
+pymongo
+redis
